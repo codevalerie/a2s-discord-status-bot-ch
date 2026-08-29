@@ -26,7 +26,7 @@ PLAYER_CHANNEL = 0000000000000000000
 
 # Voice channel showing current map
 # Example:
-# 🗺️・de_lake_old_hxi
+# 🗺️・de_lake
 MAP_CHANNEL = 0000000000000000000
 
 # How often to check the server
