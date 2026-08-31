@@ -9,5 +9,4 @@ Features:
 - Super low resource usage due to simplicity
 
 Example:
-
-![image](https://user-images.githubusercontent.com/69946827/176722704-f91a2050-6455-44e7-973f-e3ce3c276bb5.png)
+<img width="386" height="229" alt="Screenshot" src="https://github.com/user-attachments/assets/760c56dd-d2cf-4bf3-9b8e-ce6bee881732" />
