@@ -11,3 +11,4 @@ Features:
 Example:
 
 <img width="386" height="229" alt="Screenshot" src="https://github.com/user-attachments/assets/760c56dd-d2cf-4bf3-9b8e-ce6bee881732" />
+<img width="351" height="145" alt="Screenshot_2026-10-08_16-10-20" src="https://github.com/user-attachments/assets/a841e19f-036e-479e-acc4-75f3a8ac7efe" />
